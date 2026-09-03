@@ -1,0 +1,18 @@
+[
+  {
+    "id": "CAM001",
+    "nombre": "Ayuda inmediata",
+    "fecha_inicio": "2026-09-01",
+    "fecha_fin": "2026-09-30",
+    "descripcion": "Campaña inicial de respuesta humanitaria.",
+    "activa": true
+  },
+  {
+    "id": "CAM002",
+    "nombre": "CampX",
+    "fecha_inicio": "2026-10-01",
+    "fecha_fin": "2026-10-31",
+    "descripcion": "",
+    "activa": true
+  }
+]

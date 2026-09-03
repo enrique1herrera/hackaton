@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A001",
+    "nombre": "Arroz",
+    "categoria": "no_perecedero",
+    "unidad": "bolsa",
+    "activo": true
+  },
+  {
+    "id": "A002",
+    "nombre": "Leche",
+    "categoria": "perecedero",
+    "unidad": "caja",
+    "activo": true
+  },
+  {
+    "id": "A003",
+    "nombre": "Toallas de papel",
+    "categoria": "limpieza",
+    "unidad": "caja",
+    "activo": true
+  },
+  {
+    "id": "A004",
+    "nombre": "A",
+    "categoria": "no_perecedero",
+    "unidad": "kg",
+    "activo": true
+  }
+]
